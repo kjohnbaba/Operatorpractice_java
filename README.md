@@ -1,1 +1,1 @@
-# Operatorpractice_java
+Small practice for ! && || operators
