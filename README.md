@@ -1,1 +1,1 @@
-Small practice for ! && || >= etc operators
+Small practice for ! && < || >= etc operators
