@@ -11,6 +11,8 @@ public class Operators {
 
     boolean ex3 = !(b <= a && b != a + b);
     System.out.println(ex3); 
-
+    
+    boolean ex4 = (b >=a || !(b !=a));
+     System.out.println(ex4); 
   }
 }
